@@ -1,0 +1,43 @@
+    Pigeon (Device ID 13)   |   CAN ID is 13
+FIRMWARE MUST BE UPDATED!
+Description:Pigeon is running normally.
+Pigeon State:Ready
+Last CAL mode:BootTareGyroAccel
+Last CAL err:0
+
+TempC:32.1328
+UpTime:255 seconds
+noMotionBiasCount:15
+tempCompensationCount:0
+Temperature Calibration exists.  This particular IMU is temperature insensitive.
+
+Yaw: 572.299 '
+Pitch:   -0.043 '
+Roll:  22.455 '
+
+Compass (continuous):   0.000 '
+Compass (bounded):   0.000 '
+Fused heading:  35.728 '
+FuseFlags:14
+GoodCriteriaCnt:0
+
+Faults:0
+StickyFlts:0
+
+Quaternion (w,x,y,z):    0.475329,    0.499756,    -0.336589,    -0.085979
+
+Accel Tilt X to Z:   -1.03 '
+Accel Tilt Y to Z:   -0.66 '
+Accel Tilt X to Y: 122.43 '
+
+Gyro: (   -0.06,    -0.11,    0.00) dps
+Mag: (   0.00,    0.00,    0.00) units
+Mag Strength:  75.90uT
+Accel: ( 301.00,  -191.00, 16731.00) units
+
+FRC Locked:0
+
+"Light Device LED" clears sticky faults.
+
+Build:Jan  8 2021 20:09:44
+Press "Refresh" to close.

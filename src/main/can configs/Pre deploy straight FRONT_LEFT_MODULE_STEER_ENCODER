@@ -1,0 +1,19 @@
+    CANCoder (Device ID 11)   |   CAN ID is 11
+Integrated Sensor:-0.088 deg
+  Position:-0.088 deg
+  Velocity:0.000 deg per sec
+  Absolute Position (unsigned):106.436 deg
+  On power cycle, sensor position resets to zero.
+
+  Magnet Field Strength: Ideal
+  Magnet LED is green.
+
+Battery:12.05 V
+
+FRC Locked:1
+Robot is enabled:0
+
+"Light Device LED" to clear sticky faults.
+
+Build:Jan  8 2021 20:09:44
+Press "Refresh" to close.
